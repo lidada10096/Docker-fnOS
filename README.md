@@ -5,6 +5,11 @@
 ## 💫 轻松在Docker中运行你的fnOS
 
 飞牛 fnOS 是一款极具潜力的国产免费 NAS 系统，尤其适合新手用户和家庭用户。它安装简单、界面精美易用，而且可以高效地利用闲置硬件，搭建 NAS 私人存储来替代网盘，并安装使用各种 Docker 应用。本项目旨在提供一种在 Docker 容器中便捷部署 fnOS 的方案。
+
+国内无法拉取镜像的去网盘下载：https://pan.baidu.com/s/1rPOl4IgSxSobJUl_uErWAw?pwd=ddkz
+
+❤️软件福利资源分享：https://www.kdocs.cn/l/cpuckFAwtrRs
+
 ![img2](https://github.com/user-attachments/assets/663e6545-f25e-40df-afab-43f91ceda9eb)
 ![img10](https://github.com/user-attachments/assets/9efb53bb-7e1d-4b1d-9b58-da672bc3ecf2)
 ![img9](https://github.com/user-attachments/assets/7393f0fb-bc5a-41df-9a90-501a21c61e55)
@@ -119,7 +124,12 @@ docker-compose up -d
 ![111126b00yhwtwwtjptwz5](https://github.com/user-attachments/assets/a42afbe2-cce6-4314-82c8-17e55b8f8275)
 ![111127vrdtl15tmwtllvtg](https://github.com/user-attachments/assets/b6a00094-ffc8-4008-994a-1d152dff5564)
 
-##🤝 共同交流
+## 🤝 共同交流
 每一个优秀的开源项目都凝聚着集体的智慧。无论是修复bug、添加功能，还是改进文档，你的每一份付出都将帮助成千上万的人摆脱重复性工作的束缚。
+
 ![微信截图_20250710174656](https://github.com/user-attachments/assets/0002b30d-62b7-4c18-ac74-f97ea7a56803)
+
 加入我们，一起创造更加智能的未来。
+
+## ❤️ 特别鸣谢
+ 感谢https://github.com/qemus/qemu 项目提供的基础镜像。
