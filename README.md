@@ -4,8 +4,16 @@
 
 ## 💫 轻松在Docker中运行你的fnOS
 
-
 飞牛 fnOS 是一款极具潜力的国产免费 NAS 系统，尤其适合新手用户和家庭用户。它安装简单、界面精美易用，而且可以高效地利用闲置硬件，搭建 NAS 私人存储来替代网盘，并安装使用各种 Docker 应用。本项目旨在提供一种在 Docker 容器中便捷部署 fnOS 的方案。
+![img2](https://github.com/user-attachments/assets/663e6545-f25e-40df-afab-43f91ceda9eb)
+![img10](https://github.com/user-attachments/assets/9efb53bb-7e1d-4b1d-9b58-da672bc3ecf2)
+![img9](https://github.com/user-attachments/assets/7393f0fb-bc5a-41df-9a90-501a21c61e55)
+![img8](https://github.com/user-attachments/assets/13bc487e-82d2-4554-871c-dddd70c57d71)
+![img7](https://github.com/user-attachments/assets/ddefb8e2-145f-4247-811f-7b4fe7cdf248)
+![img6](https://github.com/user-attachments/assets/7d533603-87ec-456d-bee0-661448120452)
+![img5](https://github.com/user-attachments/assets/6b6bb73c-435d-476a-9200-a72aeb4306b8)
+![img4](https://github.com/user-attachments/assets/37e42abc-14dd-4e3a-b309-f07690fdbb41)
+![img3](https://github.com/user-attachments/assets/cc4e20a1-be31-4fee-b0b8-ddf3a2d208cf)
 
 ## 💡 项目介绍
 
@@ -93,9 +101,18 @@ docker-compose up -d
 ```
 
 `-d` 参数表示在后台运行容器。
-[Docker-fnOS/img/img1.png at main · lidada10096/Docker-fnOS](https://github.com/lidada10096/Docker-fnOS/blob/main/img/img1.png)
+
 ### 访问 fnOS
 
 容器启动并完成 fnOS 的安装过程后（如果 BOOT 指定的是 ISO），你可以通过宿主机的 IP 地址和映射的端口（默认为 8006）在浏览器中访问 fnOS 的 Web 管理界面进行后续的配置和使用。
 
 例如，如果你的宿主机 IP 是 `192.168.1.10`，则在浏览器中打开 `http://192.168.1.10:8006`。
+
+![111123vjttjhh7e780rzc0](https://github.com/user-attachments/assets/41538a08-2535-4499-9756-37e7c0ed6903)
+![111124kpgmwi6nc7oei36w](https://github.com/user-attachments/assets/3c798670-86f1-4c9e-b888-9d4201cc623e)
+![111124u4ssdbcywh5he0r5](https://github.com/user-attachments/assets/b814e2f2-3d76-4cc9-894d-02e0fd2e9c5a)
+![111125r42xk34hc435hm23](https://github.com/user-attachments/assets/be0152d4-8e6b-4916-8946-03115a4036b2)
+![111125ihmsbiz3o3ymmw5z](https://github.com/user-attachments/assets/5db6ede3-86da-479d-9803-1699fbce8956)
+![111125twzoe9gjqjgbgkwo](https://github.com/user-attachments/assets/5d8737a2-45b1-40e0-b88a-dc650598ea8a)
+![111126e9uredemnwm9wpup](https://github.com/user-attachments/assets/1a0afcc1-4603-4c75-9928-983e92106145)
+![微信截图_20250710172753](https://github.com/user-attachments/assets/2e7b876f-bd3c-46aa-bdd3-b0b4738e79da)
