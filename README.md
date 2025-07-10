@@ -118,3 +118,8 @@ docker-compose up -d
 ![微信截图_20250710172753](https://github.com/user-attachments/assets/2e7b876f-bd3c-46aa-bdd3-b0b4738e79da)
 ![111126b00yhwtwwtjptwz5](https://github.com/user-attachments/assets/a42afbe2-cce6-4314-82c8-17e55b8f8275)
 ![111127vrdtl15tmwtllvtg](https://github.com/user-attachments/assets/b6a00094-ffc8-4008-994a-1d152dff5564)
+
+##🤝 共同交流
+每一个优秀的开源项目都凝聚着集体的智慧。无论是修复bug、添加功能，还是改进文档，你的每一份付出都将帮助成千上万的人摆脱重复性工作的束缚。
+![微信截图_20250710174656](https://github.com/user-attachments/assets/0002b30d-62b7-4c18-ac74-f97ea7a56803)
+加入我们，一起创造更加智能的未来。
