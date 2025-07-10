@@ -1,0 +1,23 @@
+services:
+  fnos:
+    image: ghcr.io/qemus/qemu:7.12
+    container_name: fnos
+    environment:
+      BOOT: "https://iso.liveupdate.fnnas.com/x86_64/trim/fnos-0.9.11-946.iso"
+      RAM_SIZE: "2G"
+      CPU_CORES: "4"
+      DISK_SIZE: "16G"
+      DISK2_SIZE: "50G"
+    devices:
+      - /dev/kvm
+      - /dev/net/tun
+    cap_add:
+      - NET_ADMIN
+    ports:
+      - 8006:8006
+      - 5666:5666
+    volumes:
+      - /dir1:/storage
+      - /dir2:/storage2
+    restart: unless-stopped
+    stop_grace_period: 2m
